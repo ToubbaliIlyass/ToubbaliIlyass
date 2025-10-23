@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Passion project<br>🌱 I’m currently learning to code more<br>💬 Ask me about my ideas<br>⚡ Not your typical computer science student
+🔭 I’m currently working on a Passion project "Acture"<br>🌱 I’m currently learning to code more<br>💬 Ask me about my ideas<br>⚡ Not your typical computer science student
 
 
 ## 🌐 Socials:
