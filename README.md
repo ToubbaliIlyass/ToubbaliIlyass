@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://github.com/ToubbaliIlyass/CleanTab/blob/main/Assets/large-logo-CleanTab.png" alt="logo" width="60" style="vertical-align: middle; margin-right: 10px;">
   Hey, I'm <strong>Ilyass Toubbali</strong> 👋
 </h1>
 
@@ -22,7 +21,7 @@ Right now I’m working on:
 
 - 🧩 **[CleanTab](https://github.com/ToubbaliIlyass/CleanTab)** — A Chrome extension that helps people stay away from NSFW content and reclaim focus.  
   > _A CleanTab for a ClearMind._  
-- ⚡ **[Acture](https://github.com/ToubbaliIlyass/Acture)** — A minimal productivity app designed around actions, habits, and clarity.
+- ⚡ **[Acture](https://acture.co)** — A minimal productivity app designed around actions, habits, and clarity.
 
 ---
 
