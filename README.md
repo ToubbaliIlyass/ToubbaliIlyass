@@ -1,16 +1,82 @@
-# 💫 About Me:
-🔭 I’m currently working on a Passion project "Acture"<br>🌱 I’m currently learning to code more<br>💬 Ask me about my ideas<br>⚡ Not your typical computer science student
+<h1 align="center">
+  <img src="https://github.com/ToubbaliIlyass/CleanTab/blob/main/Assets/large-logo-CleanTab.png" alt="logo" width="60" style="vertical-align: middle; margin-right: 10px;">
+  Hey, I'm <strong>Ilyass Toubbali</strong> 👋
+</h1>
 
+<p align="center">
+  <i>Developer • Creator • Hybrid Athlete</i>  
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilyasstoubbali/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyasstoubbali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toubbaliilyasse@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ToubbaliIlyass&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ToubbaliIlyass&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToubbaliIlyass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Building things that make life a little clearer, smarter, and more intentional 🌿
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ToubbaliIlyass&icon=5&color=12)](https://visitcount.itsvg.in)
+
+### 🧠 About Me
+
+Hi, I’m **Ilyass** — a developer, student, and creator who loves building meaningful tools and documenting the journey along the way.  
+I mix **code, creativity, and self-improvement** — crafting products that inspire action and focus.
+
+Right now I’m working on:
+
+- 🧩 **[CleanTab](https://github.com/ToubbaliIlyass/CleanTab)** — A Chrome extension that helps people stay away from NSFW content and reclaim focus.  
+  > _A CleanTab for a ClearMind._  
+- ⚡ **[Acture](https://github.com/ToubbaliIlyass/Acture)** — A minimal productivity app designed around actions, habits, and clarity.
+
+---
+
+### ⚙️ Tech I Love Working With
+
+`TypeScript` • `Next.js` • `Prisma` • `tRPC` • `Supabase` • `TailwindCSS`  
+`React Native` • `PostgreSQL` • `AI APIs` • `Creative Coding`
+
+---
+
+### 💬 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/ilyasstoubbali" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/ilyasstoubbali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:toubbaliilyasse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### ☕ Support My Work
+
+I build open-source tools and projects to help people focus, grow, and create freely.  
+If you’d like to support my journey, you can:
+
+- 💖 [**Buy me a coffee on Ko-fi**](https://ko-fi.com/ilyasstoubbali)  
+- 💸 [**Donate via PayPal**](https://paypal.me/ilyasstoubbali)
+
+Your support keeps me building — one project at a time. 🙏  
+
+---
+
+### 🌱 Current Goals
+
+- Launch **CleanTab** publicly on the Chrome Web Store  
+- Grow **Acture** into a minimal productivity system  
+- Share my creative & athletic journey through content  
+- Keep learning, coding, and creating daily
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ToubbaliIlyass&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true&hide=issues&rank_icon=github" alt="Ilyass' GitHub stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Build with purpose, move with clarity, live with intention."</i>  
+  <br>🌿
+</p>
