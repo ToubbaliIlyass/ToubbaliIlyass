@@ -21,7 +21,7 @@ Right now I’m working on:
 
 - 🧩 **[CleanTab](https://github.com/ToubbaliIlyass/CleanTab)** — A Chrome extension that helps people stay away from NSFW content and reclaim focus.  
   > _A CleanTab for a ClearMind._  
-- ⚡ **[Acture](https://acture.co)** — A minimal productivity app designed around actions, habits, and clarity.
+- ⚡ **<a href="https://acture.co" target="_blank">Acture</a>** — A minimal productivity app designed around actions, habits, and clarity.
 
 ---
 
