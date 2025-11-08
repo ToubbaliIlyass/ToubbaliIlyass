@@ -34,7 +34,7 @@ Right now I’m working on:
 
 ### 💬 Connect with Me
 
-<p align="center">
+<p >
   <a href="https://instagram.com/ilyasstoubbali" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -67,11 +67,6 @@ Your support keeps me building — one project at a time. 🙏
 - Share my creative & athletic journey through content  
 - Keep learning, coding, and creating daily
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToubbaliIlyass&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true&hide=issues&rank_icon=github" alt="Ilyass' GitHub stats" />
-</p>
 
 ---
 
