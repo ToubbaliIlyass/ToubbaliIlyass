@@ -39,8 +39,8 @@ I like **clarity, focus and execution** more than ideas, so I ship, measure and 
 
 | Project | What it is |
 |---|---|
-| **[Atlas Rayonnage](https://www.rackdiscount.ma)** | Bilingual (FR / AR) catalogue and quote site for a Moroccan racking supplier: product data generated from the old shop's export, city landing pages, automated SEO checks in CI. |
-| **Silkor Clinic** | Three-language (FR / EN / AR) site for a Casablanca aesthetic-medicine practice, built inside Morocco's medical ethics code, which the build checks automatically. *In development.* |
+| **[Atlas Rayonnage](https://www.atlasrayonnage.ma)** | Bilingual (FR / AR) catalogue and quote site for a Moroccan racking supplier: product data generated from the old shop's export, city landing pages, automated SEO checks in CI. |
+| **[Silkor Clinic](https://silkorclinic.com)** | Three-language (FR / EN / AR) site for a Casablanca aesthetic-medicine practice, built inside Morocco's medical ethics code, which the build checks automatically. *In development.* |
 | **ASB Santé** | Bilingual company site for a dermo-cosmetics and supplements distributor: scroll-drawn distribution chain and coverage map. *In development.* |
 
 **Products**
