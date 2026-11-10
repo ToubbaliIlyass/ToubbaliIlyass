@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://acture.co"><b>Portfolio → acture.co</b></a>
+  <a href="https://me.acture.co"><b>Portfolio → me.acture.co</b></a>
 </p>
 
 ---
@@ -50,11 +50,11 @@ I like **clarity, focus and execution** more than ideas, so I ship, measure and 
 | **[Acture](https://github.com/ToubbaliIlyass/LifeP)** | Next.js 16, React 19, Tailwind 4. To-dos, projects and events, planned by talking to Tuck, with a theme you can generate from any colour. |
 | **[CleanTab](https://cleantab.acture.co)** ([code](https://github.com/ToubbaliIlyass/CleanTab)) | Chrome extension that blocks distractions and NSFW content, with a short pause before you go through. |
 | **[DariScript](https://dariscript.acture.co)** | Darija subtitle generator for Moroccan creators: upload a video, get editable subtitles in Arabic script or Arabizi. |
-| **[My portfolio](https://acture.co)** | The site that holds it all: case studies, writing and photography. Next.js, with a case study for each project. |
+| **[My portfolio](https://me.acture.co)** | The site that holds it all: case studies, writing and photography. Next.js, with a case study for each project. |
 
 **Photography:** [Abstracta](https://abstracta.acture.co), my portfolio styled as polaroids and zine pages ([code](https://github.com/ToubbaliIlyass/photography-portfolio)).
 
-More at **[acture.co](https://acture.co)**.
+More at **[me.acture.co](https://me.acture.co)**.
 
 ---
 
@@ -69,7 +69,7 @@ More at **[acture.co](https://acture.co)**.
 ### 💬 Connect with me
 
 <p>
-  <a href="https://acture.co" target="_blank">
+  <a href="https://me.acture.co" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?&style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ilyasstoubbali" target="_blank">
