@@ -18,7 +18,7 @@
 
 ### 🧠 About me
 
-I'm a Computer Science student at **Al Akhawayn University** (BSc, 2023–2027, President's List ×3) and a part-time software engineer at **Claro Digital Services**, where I build client websites and SaaS products. I tutor programming and data structures at the university's Center of Learning and Excellence, and I run its Orchestra Club.
+I'm a senior Computer Science student at **Al Akhawayn University**, a software engineer at **Claro Digital Services** (part-time, building client websites and SaaS products), a content creator and a future entrepreneur.
 
 I like **clarity, focus and execution** more than ideas, so I ship, measure and iterate.
 
