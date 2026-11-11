@@ -27,7 +27,7 @@ I like **clarity, focus and execution** more than ideas, so I ship, measure and 
 ### 💼 Now
 
 - 🏢 **[Claro Digital Services](https://github.com/Claro-Digital-Services)**: software engineer, part-time. Design, build and SEO for client sites in French, English and Arabic (right-to-left included).
-- ✅ **Acture**: a calm, voice-first to-do list with a small mole called Tuck. Say what's on your plate and it lands on the right days. *(in active development, below)*
+- ✅ **[Acture](https://app.acture.co)**: a calm, voice-first to-do list with a small mole called Tuck. Say what's on your plate and it lands on the right days. *(in active development, below)*
 - 🧩 **CleanTab**: a privacy-first Chrome extension that makes you pause instead of just blocking.
 - 🤝 **Freelance**: websites and SEO for small businesses.
 
@@ -47,7 +47,7 @@ I like **clarity, focus and execution** more than ideas, so I ship, measure and 
 
 | Project | What it is |
 |---|---|
-| **[Acture](https://github.com/ToubbaliIlyass/LifeP)** | Next.js 16, React 19, Tailwind 4. To-dos, projects and events, planned by talking to Tuck, with a theme you can generate from any colour. |
+| **[Acture](https://app.acture.co)** ([code](https://github.com/ToubbaliIlyass/LifeP)) | Next.js 16, React 19, Tailwind 4. To-dos, projects and events, planned by talking to Tuck, with a theme you can generate from any colour. |
 | **[CleanTab](https://cleantab.acture.co)** ([code](https://github.com/ToubbaliIlyass/CleanTab)) | Chrome extension that blocks distractions and NSFW content, with a short pause before you go through. |
 | **[DariScript](https://dariscript.acture.co)** | Darija subtitle generator for Moroccan creators: upload a video, get editable subtitles in Arabic script or Arabizi. |
 | **[My portfolio](https://me.acture.co)** | The site that holds it all: case studies, writing and photography. Next.js, with a case study for each project. |
